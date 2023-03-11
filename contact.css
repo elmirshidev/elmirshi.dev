@@ -354,6 +354,7 @@ FOOTER */
     flex-direction: row;
     transform: translate(100px);
     transition: 600ms all ease;
+    z-index:999;
 }
 .changer_new{
     transform: translate(0);
