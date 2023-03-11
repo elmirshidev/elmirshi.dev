@@ -230,7 +230,7 @@ center h3{
     flex-direction: column;
     gap: 20px;
     width: 50%;
-    background-image: url('../assets/contact-back.jpg');
+    background-image: url('./assets/contact-back.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
