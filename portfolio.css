@@ -288,7 +288,7 @@ center h3{
     transition: 800ms all ease;
 }
 .about a:hover{
-    background-color: #c70039;
+    background-color: var(--color);
     color: white;
 }
 /* 
