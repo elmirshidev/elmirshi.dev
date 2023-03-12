@@ -625,3 +625,7 @@ FOOTER */
     background-color: #dd7631;
     transition: all .4s ease;
 }
+::selection{
+    background-color: var(--color);
+    color: white;
+}
